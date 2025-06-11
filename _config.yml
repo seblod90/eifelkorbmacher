@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+facebook_username: wolfgang.gladziewski
 search: true
 
 author_profile: false 
@@ -72,15 +72,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/wolfgang.gladziewski"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/eifelkorbmacher"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:eifelkorbmacher@t-online.de"
 
 defaults:
   # _posts
@@ -93,7 +93,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: false
-      share: true
+      share: false
       related: true
       css: "/assets/css/custom.css"
   # _pages
@@ -104,6 +104,9 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+
+atom_feed:
+  hide: true
 
 category_archive:
   type: liquid

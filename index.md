@@ -1,7 +1,3 @@
----
-permalink: /about/
-title: "About"
----
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
@@ -18,7 +14,7 @@ title: "About"
 <br>
 <br>
 
-<h1>Wie die Zeit vergeht</h1>
+# Wie die Zeit vergeht
 
 <div class="grid__wrapper">
 
