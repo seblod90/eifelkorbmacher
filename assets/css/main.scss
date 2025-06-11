@@ -1,0 +1,11 @@
+---
+---
+
+@import "minimal-mistakes/skins/dirt"; // Or your selected skin
+@import "minimal-mistakes"; // Imports the main theme styles
+
+// Your overrides go here
+
+#main p {
+  font-size: 16px;
+}
