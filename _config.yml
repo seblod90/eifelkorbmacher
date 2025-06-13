@@ -81,6 +81,10 @@ footer:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:eifelkorbmacher@t-online.de"
+    - label: "Impressum"
+      url: "/impressum/"
+    - label: "Datenschutzerklärung"
+      url: "/datenschutz/"
 
 defaults:
   # _posts
@@ -103,7 +107,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
 
 atom_feed:
   hide: true
