@@ -6,7 +6,7 @@ permalink: /verkauf/
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="assets/images/verkauf.jpg" alt="Basket" style="width: 100%; height: auto;">
+    <img src="../assets/images/verkauf.jpg" alt="Basket" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; min-width: 250px;">
     <h2>Verkauf</h2>
@@ -23,7 +23,7 @@ permalink: /verkauf/
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="assets/images/sonderanfertigungen.jpg" alt="Basket" style="width: 100%; height: auto;">
+    <img src="../assets/images/sonderanfertigungen.jpg" alt="Basket" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; min-width: 250px;">
     <h2>Sonderanfertigungen</h2>

@@ -1,6 +1,6 @@
 main:
   - title: "Startseite"
-    url: /index/
+    url: /
   - title: "Katalog"
     url: /katalog/
   - title: "Neue Produkte"
