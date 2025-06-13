@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Products"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Startseite"
+    url: /index/
+  - title: "Katalog"
+    url: /katalog/
+  - title: "Neue Produkte"
+    url: /neue_produkte/
+  - title: "Verkauf"
+    url: /verkauf/
+  - title: "Kontakt"
+    url: /kontakt/
