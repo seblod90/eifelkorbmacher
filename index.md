@@ -6,7 +6,7 @@
   <div style="flex: 2; min-width: 250px;">
     <h2>Über uns</h2>
     <p>
-      Seit 1984 betreibe ich mit meiner Frau in Mückeln im Haupterwerb unsere Werkstatt als Meister- und Innungsbetrieb des Korbmacherhandwerks. Obwohl wir uns weniger als Kunst- denn als Gebrauchshandwerk verstehen, wollen wir unseren Kunden ein Produkt anbieten, das bei voller Gebrauchsfähigkeit und hoher Verarbeitungsqualität auch ästhetische Ansprüche erfüllt. Und dies zu bezahlbaren Preisen. Wir freuen uns auf Sie!<br><br>→ Direkt zum <a href="assets/files/Katalog 2025.pdf">Katalog</a>
+      Seit 1984 betreibe ich mit meiner Frau in Mückeln im Haupterwerb unsere Werkstatt als Meister- und Innungsbetrieb des Korbmacherhandwerks. Obwohl wir uns weniger als Kunst- denn als Gebrauchshandwerk verstehen, wollen wir unseren Kunden ein Produkt anbieten, das bei voller Gebrauchsfähigkeit und hoher Verarbeitungsqualität auch ästhetische Ansprüche erfüllt. Und dies zu bezahlbaren Preisen. Wir freuen uns auf Sie!<br><br>→ Direkt zum <a href="assets/files/Katalog2025.pdf">Katalog</a>
     </p>
   </div>
 </div>

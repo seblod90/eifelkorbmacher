@@ -9,7 +9,7 @@ Hier finden Sie eine Auswahl aus unserem Sortiment.
 
 Für einen kompletten Überblick, blättern Sie auch in unserem Katalog: 
 
-<a href="assets/files/Katalog 2025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="{{ "/assets/files/Katalog2025.pdf" | relative_url }}" target="_blank" rel="noopener noreferrer">
   <img src="../assets/images/korbwarenkatalog_2025.png" alt="Korbwarenkatalog" style="width:200px; height:auto;">
 </a>
 

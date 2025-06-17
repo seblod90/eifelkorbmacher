@@ -82,9 +82,9 @@ footer:
       icon: "fas fa-envelope"
       url: "mailto:eifelkorbmacher@t-online.de"
     - label: "Impressum"
-      url: "https://seblod90.github.io/eifelkorbmacher/impressum/"
+      url: "{{'/impressum/' | relative_url }}"
     - label: "Datenschutzerklärung"
-      url: "https://seblod90.github.io/eifelkorbmacher/datenschutz/"
+      url: "{{'/datenschutz/' | relative_url }}"
 
 defaults:
   # _posts
