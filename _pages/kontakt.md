@@ -24,7 +24,7 @@ Adresse: [Hauptstraße 14, 54558 Mückeln](https://maps.app.goo.gl/5jhZEiGqsMhku
 <!-- Complete form with reCAPTCHA and custom fields -->
 <form action="https://api.staticforms.xyz/submit" method="POST">
   <!-- Required: Your Static Forms API key -->
-  <input type="hidden" name="apiKey" value="sf_dce4nj7afl1lmfa33b18bi6h">
+  <input type="hidden" name="apiKey" value="sf_bf9eed7ihljicj7j4kmcl102">
 
   <!-- Enable reply-to functionality -->
   <input type="hidden" name="replyTo" value="@">
