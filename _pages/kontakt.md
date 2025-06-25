@@ -65,6 +65,10 @@ Adresse: [Hauptstraße 14, 54558 Mückeln](https://maps.app.goo.gl/5jhZEiGqsMhku
     Ich habe die <a href="/datenschutz" target="_blank">Datenschutzerklärung</a> gelesen und akzeptiert.
   </div>
 
+  <!-- reCAPTCHA -->
+  <div class="g-recaptcha" data-sitekey="6LdDdW0rAAAAAFspT0s_jpRnx6VwoG-7EOEYC_Nn"></div>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
   <!-- Optional redirect URLs -->
   <input type="hidden" name="redirectTo" value="https://www.eifelkorbmacher.de/success/">
 
