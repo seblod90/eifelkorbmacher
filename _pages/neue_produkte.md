@@ -7,20 +7,6 @@ permalink: /neue_produkte/
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="../assets/images/norfolk_spargelkorb.jpg" alt="Norfolk Spargelkorb" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 2; min-width: 250px;">
-    <h2>Norfolk Spargelkorb</h2>
-    <p>
-      Ein Korb, der im Vereinigten Königreich für die Spargelernte benötigt wurde und seinen Ursprung in der Grafschaft Norfolk hat. In meiner Werkstatt nach Englischen Maßen und in Englischer Technik geflochten. Für jeden Hobbygärtner die Gelegenheit, mit einem schönen Begleiter die Ernte zu erledigen. Und das nicht nur in der Spargelzeit.  Auch gut als Werkzeugkorb einsetzbar.<br>Länge ca. 47cm, Breite ca. 30cm, Höhe ohne Henkel ca. 20-21cm
-    </p>
-  </div>
-</div>
-
-<br>
-
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
     <img src="../assets/images/korbtruhe.jpg" alt="Korbtruhe, weiße Weide" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; min-width: 250px;">
@@ -55,6 +41,34 @@ permalink: /neue_produkte/
     <h2>15-Pfünder in "Rheinland Grün-Weiß"</h2>
     <p>
       Nicht immer vorrätig, sondern nur, wenn aus der laufenden Fertigung die benötigten Weiden dafür "übrig" sind.  Bitte bei Interesse einfach nachfragen. Wir helfen gerne weiter.
+    </p>
+  </div>
+</div>
+
+<br> 
+
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="../assets/images/viereckiger_waschkorb.jpg" alt="Viereckiger Waschkorb" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; min-width: 250px;">
+    <h2>Viereckiger Waschkorb</h2>
+    <p>
+      Noch nicht im Katalog, aber natürlich im Fertigungsprogramm: Eckige Waschkörbe in 8 verschiedenen Größen. Die genauen Maße entnehmen Sie bitte der im Katalog eingefügten Liste. Alle eckigen Körbe haben zum Schutz des Bodens Schleifleisten aus Nadelholz.
+    </p>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="../assets/images/johnny.jpg" alt="Johnny" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; min-width: 250px;">
+    <h2>Johnny</h2>
+    <p>
+      Den Armkorb "Johnny", Art.Nr. 497, gibt es jetzt auch "serienmäßig" komplett in ungeschälter brauner Weide (mit ein paar hellen Akzenten). 
     </p>
   </div>
 </div>

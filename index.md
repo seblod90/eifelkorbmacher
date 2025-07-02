@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="assets/images/homepage1.jpg" alt="Basket" style="width: 100%; height: auto;">
+    <img src="assets/images/ueber_uns.jpg" alt="Über uns" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; min-width: 250px;">
     <h2>Über uns</h2>
@@ -19,17 +19,17 @@
 <div class="grid__wrapper">
 
   <div class="grid__item">
-    <img src="assets/images/basket1.jpg" alt="Basket 1">
+    <img src="assets/images/Arbeitsprobe.jpg" alt="Arbeitsprobe">
     <p class="text--center">Arbeitsprobe bei der Meisterprüfung 1994</p>
   </div>
 
   <div class="grid__item">
-    <img src="assets/images/basket2.jpg" alt="Basket 2">
+    <img src="assets/images/Spreukorb.jpg" alt="Spreukorb">
     <p class="text--center">Herstellung eines großen Spreukorbes (Kaffmange)</p>
   </div>
 
   <div class="grid__item">
-    <img src="assets/images/basket3.jpg" alt="Basket 3">
+    <img src="assets/images/Ausseneinsatz.jpg" alt="Ausseneinsatz">
     <p class="text--center">"Außeneinsatz" auf dem Handwerkermarkt in Trier</p>
   </div>
 
