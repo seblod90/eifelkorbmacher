@@ -10,7 +10,7 @@ permalink: /verkauf/
   <div style="flex: 2; min-width: 250px;">
     <h2>Verkauf</h2>
     <p>
-      Ganz bewusst haben wir auf die Einrichtung eines Online-Shops verzichtet. Zu verschieden sind die anfallenden Kosten für Verpackung und Versand bei unterschiedlichen Größen. Sollte Ihnen der eine oder andere Korb aus unserem Sortiment gefallen, können Sie uns gerne unter unserer Telefonnumer 06574 254 anrufen. Hier sitzen noch echte Menschen am Hörer, mit denen Sie die Modalitäten eines Kaufs persönlich abklären können. Vor Ort können Sie bei uns in bar oder per PayPal bezahlen. Wir freuen uns auf Sie!<br><br><a href="/kontakt/" class="btn btn--primary">Kontakt</a>
+      Ganz bewusst haben wir auf die Einrichtung eines Online-Shops verzichtet. Zu verschieden sind die anfallenden Kosten für Verpackung und Versand bei unterschiedlichen Größen. Sollte Ihnen der eine oder andere Korb aus unserem Sortiment gefallen, können Sie uns gerne unter unserer Telefonnumer 06574 254 anrufen. Hier sitzen noch echte Menschen am Hörer, mit denen Sie die Modalitäten eines Kaufs persönlich abklären können. Vor Ort können Sie bei uns bar oder per PayPal bezahlen. Wir freuen uns auf Sie!<br><br><a href="/kontakt/" class="btn btn--primary">Kontakt</a>
     </p>
   </div>
 </div>
