@@ -120,4 +120,8 @@ tag_archive:
   path: /tags/
 
 # Google Analytics
-google_analytics: "G-8RBEKTR5NK"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8RBEKTR5NK"
+    anonymize_ip: false # default
