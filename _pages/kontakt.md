@@ -3,6 +3,10 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
+## Öffnungszeiten 
+
+<p>Wir haben keine festen Öffnungszeiten, sondern sind nach Terminabsprache für Sie da.</p>
+
 ## Kontakt 
 
 Telefon: 06574 254
