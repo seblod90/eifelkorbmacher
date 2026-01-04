@@ -118,3 +118,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Google Analytics
+google_analytics: "G-8RBEKTR5NK"
