@@ -9,7 +9,7 @@ Hier finden Sie eine Auswahl aus unserem Sortiment.
 
 Für einen kompletten Überblick, blättern Sie auch in unserem Katalog: 
 
-<a href="{{ "/assets/files/Katalog2026.pdf" | relative_url }}" target="_blank" rel="noopener noreferrer">
+<a href="{{ '/assets/files/' | append: site.files.catalog | relative_url }}" target="_blank" rel="noopener noreferrer">
   <img src="../assets/images/korbwarenkatalog_2026.png" alt="Korbwarenkatalog" style="width:200px; height:auto;">
 </a>
 
